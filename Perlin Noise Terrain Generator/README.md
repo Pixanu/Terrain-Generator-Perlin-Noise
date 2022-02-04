@@ -25,9 +25,9 @@ X- Show Normals
 C- Disable Light
 
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////
-//If Visual Studio is not installed on the machine additional .dll were provided inside the Release folder.
-///////////////////////////////////////////////////////////////////////////////////////////////////////////
+------------
+If Visual Studio is not installed on the machine additional .dll were provided inside the Release folder.
+------------
 
 Files (32 Bit):
 
